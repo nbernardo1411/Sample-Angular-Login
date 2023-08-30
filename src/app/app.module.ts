@@ -8,7 +8,8 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { Login2Component } from './login2/login2.component';
 
 import { SlickCarouselModule } from 'ngx-slick-carousel';
-import { CarouselModule } from 'ngx-bootstrap/carousel'; // Import the CarouselModule
+import { CarouselModule } from 'ngx-bootstrap/carousel';
+import { Login3Component } from './login3/login3.component'; // Import the CarouselModule
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { CarouselModule } from 'ngx-bootstrap/carousel'; // Import the CarouselM
     LoginComponent,
     DashboardComponent,
     Login2Component,
+    Login3Component,
   ],
   imports: [
     BrowserModule,
