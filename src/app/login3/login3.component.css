@@ -201,7 +201,7 @@
     }
  
     .main-header {
-        background: linear-gradient(to left, #3498db, #ffffff);
+        background: linear-gradient(to left, #005994, #ffffff);
         display: flex; /* To enable flex layout for positioning */
         height: 50px;
         align-items: center; /* Vertically center the logo and content */
